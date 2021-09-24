@@ -8,7 +8,8 @@
 ### Information Commands
 * 'git status' - show status of working folder and repo
 * 'git log' - show log of commits
-* 'git log --oneline' - compact commit bistory
+* 'git log --oneline' - compact commit history
+* 'git config -l' - list git configuration
 
 
 ### Branching Commands
