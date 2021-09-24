@@ -8,4 +8,9 @@
 ### Information Commands
 * 'git status' - show status of working folder and repo
 * 'git log' - show log of commits
-* 'git log --oneline' 
+* 'git log --oneline' - compact commit bistory
+
+
+### Branching Commands
+* 'git branch' - list local branches, show which branch we are on
+* 'git branch -M branchName' - rename current branch to 'branchName'
